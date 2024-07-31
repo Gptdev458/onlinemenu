@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/menu/desserts/</loc>
+  </url><url>
+    <loc>https://example.org/menu/kids_menu/</loc>
+  </url><url>
+    <loc>https://example.org/menu/main_meals/</loc>
+  </url><url>
+    <loc>https://example.org/menu/mix_meat_plate_for_two/</loc>
+  </url><url>
+    <loc>https://example.org/menu/pasta/</loc>
+  </url><url>
+    <loc>https://example.org/menu/ribeye_steak/</loc>
+  </url><url>
+    <loc>https://example.org/menu/salads/</loc>
+  </url><url>
+    <loc>https://example.org/menu/sauces/</loc>
+  </url><url>
+    <loc>https://example.org/menu/side_dishes/</loc>
+  </url><url>
+    <loc>https://example.org/menu/starters/</loc>
+  </url><url>
+    <loc>https://example.org/menu/steaks/</loc>
+  </url><url>
+    <loc>https://example.org/menu/wet_age_and_dry_age_steaks/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/menu/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+</urlset>
